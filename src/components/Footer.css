@@ -1,0 +1,13 @@
+.footer-wrapper {
+  background: linear-gradient(to right bottom, #fff6d1, #ffe0e3, #e3ebff, #d8f0ff);
+}
+
+.footer-wrapper a {
+  color: #111;
+  text-decoration: none;
+  font-weight: 500;
+}
+
+.footer-wrapper a:hover {
+  text-decoration: underline;
+}
